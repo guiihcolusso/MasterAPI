@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/guiihcolusso/MasterAPI/issues"
   },
-  "homepage": "https://github.com/guiihcolusso/MasterAPI#readme"
+  "homepage": "https://github.com/guiihcolusso/MasterAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
